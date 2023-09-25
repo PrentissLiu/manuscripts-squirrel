@@ -1,6 +1,6 @@
 
 <div align="left">
-    <a href="https://alist.nn.ci"><img height="100px" alt="logo" src="icon.ico"/></a>
+    <a href="https://github.com/PrentissLiu/dezoomify-rs-brilliant"><img height="100px" alt="logo" src="icon.ico"/></a>
 <div>
 
 
