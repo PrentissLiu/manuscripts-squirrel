@@ -9,6 +9,12 @@
 
 一个批量生成[http://gallica.bnf.fr](http://gallica.bnf.fr)下载链接以供dezooomify-rs下载图片的脚本
 
+## 适用网站
+
+目前仅适用于法图[http://gallica.bnf.fr](http://gallica.bnf.fr) 批量下载，其他网站尚未支持。
+
+不过若需要下载的网站URL路径与法图路径规则相似，可以修改`config.ini`的`url`参数生成批量下载的下载链接。
+
 
 ## 使用说明
 下载release文件并解压
