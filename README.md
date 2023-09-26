@@ -35,6 +35,6 @@
 	替换为：`https://gallica.bnf.fr/iiif/ark:/12148/<id>/f<picnum>/info.json`
 
 
-- `start_num`:开始下载的图片标号，对应上述链接中的`<id>`起始值
+- `start_num`:开始下载的图片标号，对应上述链接中的`<picnum>`起始值
 
 - `run_exe ` :Windows里`dezoomify-rs.exe`文件名
