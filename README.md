@@ -23,6 +23,7 @@
    -  [http://idp.bbaw.de/](http://idp.bbaw.de/)
 
 3. 故宫博物院 [https://www.dpm.org.cn/](https://www.dpm.org.cn/)
+   -  [故宫名画记](https://minghuaji.dpm.org.cn/) 和 [数字文物库](https://digicol.dpm.org.cn/) 的链接不支持下载.
 
 
 
