@@ -9,9 +9,9 @@
 
 一个简单易用的命令行写卷下载工具
 
-这个项目最初发布名为`dezoomify-rs-brilliant`，是为了解决批量输入命令行过于麻烦的问题。听说发布的第一个版本可以帮助很多人下载需要的卷宗，本开发者感觉很开心！ꉂ(ˊᗜˋ*)
+这个项目最初发布名为`dezoomify-rs-brilliant`，是为了解决批量输入命令行过于麻烦的问题。
 
-欢迎提[issue](https://github.com/PrentissLiu/manuscripts-squirrel/issues/new)，以及可以通过邮箱[lqyyxwy@gmail.com](mailto:lqyyxwy@gmail.com)找到我.
+可以提[issue](https://github.com/PrentissLiu/manuscripts-squirrel/issues/new).
 
 ## Supported Sites
 
